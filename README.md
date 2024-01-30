@@ -3,7 +3,7 @@
 _A mostly reasonable approach to JavaScript_
 _(based on Airbnb JavaScript Style Guide)_
 
-Other Style Guides
+Style Guides
 
 - [JavaScript](javascript/)
 - [React](react/)
