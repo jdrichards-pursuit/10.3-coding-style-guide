@@ -8,7 +8,6 @@ Style Guides
 - [JavaScript](javascript/)
 - [React](react/)
 - [CSS-in-JavaScript](css-in-javascript/)
-- [CSS & Sass](https://github.com/airbnb/css)
 
 ## The JavaScript Style Guide Guide
 
